@@ -80,5 +80,8 @@ DerivedDataCache/*
 !Plugins/Narrative/Narrative/Binaries/Win64/UnrealEditor-NarrativeQuestEditor.dll
 !Plugins/NarrativeCommonUI/Binaries/Win64/UnrealEditor-NarrativeCommonUI.dll
 !Plugins/NarrativeCommonUI/Binaries/Win64/UnrealEditor-NarrativeCommonUIEditor.dll
+!Plugins/ACEUnrealPlugin-5.3/ACE/Binaries/Win64/UnrealEditor-OmniverseLiveLink.dll
+!Plugins/ACEUnrealPlugin-5.3/ACE/Binaries/Win64/UnrealEditor-OmniverseAudioMixer.dll
+
 
 
